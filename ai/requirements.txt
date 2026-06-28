@@ -3,3 +3,6 @@ uvicorn==0.29.0
 tensorflow-cpu==2.15.0
 scikit-learn==1.5.0
 numpy==1.26.4
+pandas==2.2.2
+motor==3.3.1   # Cliente async para MongoDB Atlas
+python-dotenv==1.0.1  # Para manejar variables de entorno
